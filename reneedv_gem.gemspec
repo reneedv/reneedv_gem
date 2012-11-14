@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "lib/reneedv_gem.rb",
+    "reneedv_gem.gemspec",
     "spec/reneedv_gem_spec.rb",
     "spec/spec_helper.rb"
   ]
