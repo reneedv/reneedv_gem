@@ -1,6 +1,6 @@
 = reneedv_gem
 
-Description goes here.
+The coolest gem EVER!!
 
 == Contributing to reneedv_gem
  
