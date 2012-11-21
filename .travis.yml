@@ -9,4 +9,4 @@ rvm:
 env:
   - SUITE=cucumber
 script:
-  - bundle exec rake $SUITE
+  - bundle exec cucumber
